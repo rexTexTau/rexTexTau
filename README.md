@@ -28,9 +28,9 @@ I work with:
 ><code><img height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg"></code>
 ><code><img height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/puppeteer/puppeteer-original.svg"></code>
 
-><code><img height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg"></code>
 ><code><img height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg"></code>
 ><code><img height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original.svg"></code>
+><code><img height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg"></code>
 ><code><img height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg"></code>
 ><code><img height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></code>
 
