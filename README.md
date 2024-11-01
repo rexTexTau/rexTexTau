@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+My name is **George Volsky** 👨‍🦰 and I live in _Russia_ at the moment.
+
+I work with:
+
+><code><img height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
+
 <!--
 **rexTexTau/rexTexTau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
