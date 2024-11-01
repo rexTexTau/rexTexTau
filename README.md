@@ -44,7 +44,7 @@ Find out more about me:
 
 Let's get in touch:
 
-- [@rextextau](http://https://t.me/rextextau)
+- [@rextextau](https://t.me/rextextau)
 - [rextextau@gmail.com](mailto:rextextau@gmail.com)
 
 <!--
