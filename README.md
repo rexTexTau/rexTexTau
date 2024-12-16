@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is **George Volsky** 👨‍🦰 and I live in _Russia_ 📌 at the moment.
+My name is **George Volsky** 👨‍🦰 and I live in _Moscow, Russia_ 📌 at the moment.
 
 I work with:
 
