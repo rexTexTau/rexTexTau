@@ -34,10 +34,6 @@ I work with:
 ><code><img height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg"></code>
 ><code><img height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></code>
 
-## Attention ⚡
-
-I'm in active job search right now. Ship me a message if your company needs a profound and passionate Team Lead, Tech Lead or Engineering Manager!
-
 ## Contact 💬
 
 Find out more about me:
