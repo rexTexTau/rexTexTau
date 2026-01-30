@@ -2,7 +2,7 @@
 
 My name is **George Volsky** 👨‍🦰 and I live in _Moscow, Russia_ 📌 at the moment.
 
-I work with:
+I use and work with:
 
 ><code><img height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
 ><code><img height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg"></code>
