@@ -45,7 +45,7 @@ Find out more about me:
 Let's get in touch:
 
 - [@rextextau](https://t.me/rextextau)
-- [rextextau@gmail.com](mailto:rextextau@gmail.com)
+- [meet@rextextau.com](mailto:meet@rextextau.com)
 
 <!--
 **rexTexTau/rexTexTau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
