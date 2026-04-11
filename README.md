@@ -38,14 +38,13 @@ I use and work with:
 
 Find out more about me:
 
-<!-- [rextextau.com](https://rextextau.com) -->
+- [rextextau.com](https://rextextau.com)
 - [linkedin.com/in/rextextau](https://www.linkedin.com/in/rextextau)
-- [vk.com/rextextau](https://vk.com/rextextau)
 
 Let's get in touch:
 
-- [@rextextau](https://t.me/rextextau)
 - [meet@rextextau.com](mailto:meet@rextextau.com)
+- [@rextextau](https://t.me/rextextau)
 
 <!--
 **rexTexTau/rexTexTau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
