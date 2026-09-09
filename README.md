@@ -17,7 +17,7 @@ My name is **George Volsky** 👨‍🦰 and I reside in _Samara, Russia_ 📍 a
 
 ✨ **Developer Environment Security:** Auditing and hardening both the automation pipelines and human behavioral patterns.
 
-✨ **Technical Mentorship:** Conducting high-impact corporate training for both hard and soft skills.
+✨ **Mentorship:** Conducting high-impact corporate training for both hard and soft skills and surprisingly efficient 1-2-1 meetings.
 
 I use and work with:
 
