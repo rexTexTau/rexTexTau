@@ -6,7 +6,7 @@ My name is **George Volsky** 👨‍🦰 and I reside in _Samara, Russia_ 📍 a
 
 👯 Available for **part-time advisory/contract work**, and **full-time** for truly exceptional teams, the right mission and companies that are genuinely awesome.
 
-🔭 I view technical leadership as a multidimensional discipline. Whether the role is titled **Software Architect, Engineering Manager, VP of Engineering, or CTO**, my focus remains the same: aligning deep technical architecture with human systems to build resilient, scalable products.
+🔭 I view technical leadership as a multidimensional discipline, where a role is just its grain. Whether the role is titled **Software Architect, Engineering Manager, VP of Engineering, or CTO**, my focus remains the same: aligning deep technical architecture with human systems to build resilient, scalable products. These titles aren't different careers — they're just different facets of the same material.
 
 ### What I bring to the table:
 ✨ **Systems Architecture:** Greenfield design, legacy reconciliation, and rigorous architecture audits.
