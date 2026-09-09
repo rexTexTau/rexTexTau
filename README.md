@@ -75,7 +75,7 @@ I use and work with:
 ><code><img height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"></code>
 ><code><img height="80" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mongodb/mongodb-original.svg"></code>
 
-😄 IDK how many years I'm in tech, so I may occasionally miss something. But I know for sure it's enough to know exactly what *not* to do and how to fix it efficiently if we *actually do* this.
+😄 IDK how many years I'm in tech, so I may occasionally miss something. But I know for sure it's enough to know exactly what *not* to do and how to fix it efficiently if we *actually* do this.
 
 P.S. I was dealing with AI in 2008, long before it became mainstream ⚡
 
