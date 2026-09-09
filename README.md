@@ -10,12 +10,16 @@ My name is **George Volsky** 👨‍🦰 and I reside in _Samara, Russia_ 📍 a
 
 ### What I bring to the table:
 ✨ **Systems Architecture:** Greenfield design, legacy reconciliation, and rigorous architecture audits.
+
 ✨ **Engineering Leadership:** Designing measurable processes, rebuilding teams with psychological compatibility in mind, and fostering a culture of ownership.
+
 ✨ **Taming Large Codebases:** Driving meaningful ADRs, establishing code/architecture standards, automated linting, and pragmatic tech debt prioritization.
+
 ✨ **Developer Environment Security:** Auditing and hardening both the automation pipelines and human behavioral patterns.
+
 ✨ **Technical Mentorship:** Conducting high-impact corporate training for both hard and soft skills.
 
-🌱 I use and work with:
+I use and work with:
 
 ><code><img height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
 ><code><img height="80" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/windows11/windows11-original.svg"></code>
