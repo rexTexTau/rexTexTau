@@ -78,7 +78,7 @@ I use and work with:
 
 😄 IDK how many years I'm in tech, so I may occasionally miss something. But I know for sure it's enough to know exactly what *not* to do and how to fix it efficiently if we *actually* do this.
 
-P.S. I was dealing with AI in 2008, long before it became mainstream ⚡
+P.S. I'm dealing with AI since 2008, long before it became mainstream ⚡
 
 ## Contact 💬
 
